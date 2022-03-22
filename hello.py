@@ -1,4 +1,5 @@
-Heewon Kim, 202001196, Divison of Global Sport Industry
+Hajin Kim, 202101141, Division of Computer Engineering
+Touched by user2
 
 a = "Hello Python"
 print(a)
